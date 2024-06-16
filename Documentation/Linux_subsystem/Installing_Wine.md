@@ -40,13 +40,14 @@ wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bas
 ## 🍷 Step 3: Install Wine
 
 1. **🛍️ Open Pi-Apps Store from the FydeOS menu in the "Linux Apps" folder**
+
 ![Pi-Apps Store from the FydeOS menu](/Images/FydeOS/Wine/piapps_from_menu.png)
 
 2. **🔍 Search for "Wine" from the store**
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Images/FydeOS/Wine/piapps_search.png" alt="image 1" style="width: 45%;"/>
-  <img src="Images/FydeOS/Wine/piapps_wine_install.png" alt="image 2" style="width: 45%;"/>
+  <img src="/Images/FydeOS/Wine/piapps_search.png" alt="image 1" style="width: 45%;"/>
+  <img src="/Images/FydeOS/Wine/piapps_wine_install.png" alt="image 2" style="width: 45%;"/>
 </div>
 
 3. **Click on "Install" and wait until the process finishes**
@@ -55,6 +56,7 @@ wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bas
 ## ✅ Step 5: Check that you can use Wine
 
 1. ⬇️ **Download a x64 app to run (for example [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.7/npp.8.6.7.Installer.x64.exe))**
+
 2. **From the Debian terminal run the following command to execute the installer**
 ```
 box64 wine npp.8.6.7.Installer.x64.exe
