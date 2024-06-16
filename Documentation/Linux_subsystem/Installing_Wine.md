@@ -5,7 +5,20 @@
 
 Hi there! 👋 In this guide, I'll show you how to install Wine on your Fydetab DUO tablet running FydeOS. Wine will allow you to run Windows applications on your device. Let's get started! 💪
 
-## 🛠️ Prerequisites
+<br>
+
+# 📚 Index
+* [🛠️ Prerequisites](#prerequisites)
+* [🖥️ 1. Update Debian container](#step1)
+* [🛍️ 2. Install Pi-Apps store](#step2)
+* [🍷 3. Install Wine](#step3)
+* [✅ 4. Check that you can use Wine](#step3)
+
+
+<br>
+<br>
+
+## 🛠️ Prerequisites <a name=prerequisites></a>
 
 Before we begin, make sure you have the following:
 
@@ -14,7 +27,7 @@ Before we begin, make sure you have the following:
 - Access to FydeOS terminal. If you don't know you to do it check this [video - pending]()
 
 
-## 🖥️ Step 1. Update Debian container
+## 🖥️ 1. Update Debian container <a name=step1></a>
 
 * 🖥️ Access FydeOS Terminal app and start the penguin container:
 
@@ -26,7 +39,7 @@ sudo apt upgrade -y
 ```
 
 
-## 🔍 Step 2: Install Pi-Apps store
+## 🛍️ 2. Install Pi-Apps store <a name=step2></a>
 
 1. 🖥️ **Open the Debian terminal** 
 
@@ -37,7 +50,7 @@ Run the following command:
 wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
 ```
 
-## 🍷 Step 3: Install Wine
+## 🍷 3. Install Wine <a name=step3></a>
 
 1. **🛍️ Open Pi-Apps Store from the FydeOS menu in the "Linux Apps" folder**
 
@@ -53,7 +66,7 @@ wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bas
 3. **Click on "Install" and wait until the process finishes**
 
 
-## ✅ Step 5: Check that you can use Wine
+## ✅ 4. Check that you can use Wine <a name=step4></a> 
 
 1. ⬇️ **Download a x64 app to run (for example [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.7/npp.8.6.7.Installer.x64.exe))**
 
