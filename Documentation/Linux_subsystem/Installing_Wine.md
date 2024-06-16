@@ -12,7 +12,7 @@ Hi there! 👋 In this guide, I'll show you how to install Wine on your Fydetab 
 * [🖥️ 1. Update Debian container](#step1)
 * [🛍️ 2. Install Pi-Apps store](#step2)
 * [🍷 3. Install Wine](#step3)
-* [✅ 4. Check that you can use Wine](#step3)
+* [✅ 4. Check that you can use Wine](#step4)
 
 
 <br>
