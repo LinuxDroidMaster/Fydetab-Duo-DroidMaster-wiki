@@ -13,6 +13,7 @@ Hi there! 👋 In this guide, I'll show you how to install Wine on your Fydetab 
 * [🛍️ 2. Install Pi-Apps store](#step2)
 * [🍷 3. Install Wine](#step3)
 * [✅ 4. Check that you can use Wine](#step4)
+* [🖵 5. Adjust Wine resolution and run Winecfg](#step5)
 
 
 <br>
@@ -83,8 +84,15 @@ cd ~/.wine/drive_c/Program\ Files\
 
 ![](/Images/FydeOS/Wine/notepad_working_small.png)
 
-The text from the options looks quite small, I have pending to investigate it. One command I'm trying with different resolutions but without luck for now is the following: 
+
+## 🖵 5. Adjust Wine resolution and run Winecfg <a name=step5></a> 
+
+The text from the applications that runs with Wine looks quite small, to fix it we need to change the DPI options using Winecfg. 
+
+1. Run Winecfg with the following command
 ```
-box64 wine explorer /desktop=notepadpp,2560x1440 notepad++.exe
+box64 wine winecfg
 ```
+2. Go to the `Graphics` tab and increate the DPI slide (I set it at 192 but you can increase or decrease the value as you prefer). After that when you run anything with Wine, the text and everything will be bigger.
+
 
