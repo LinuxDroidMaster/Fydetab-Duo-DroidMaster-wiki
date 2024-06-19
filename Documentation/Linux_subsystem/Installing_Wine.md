@@ -95,4 +95,6 @@ box64 wine winecfg
 ```
 2. Go to the `Graphics` tab and increate the DPI slide (I set it at 192 but you can increase or decrease the value as you prefer). After that when you run anything with Wine, the text and everything will be bigger.
 
+![](/Images/FydeOS/Wine/winecfg_graphics.png)
+
 
