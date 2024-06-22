@@ -6,9 +6,19 @@ My wiki with the tutorials I will create for the Fydetab Duo tablet. You can che
 
 
 # 📚 Index
+* 🤖[Android on FydeOS](#android-subsystem)
 * 🐧[Linux on FydeOS](#linux-subsystem)
+
+
+
+## 🐧 Android subssytem on FydeOS <a name=android-subsystem></a>
+
+* **If you want to check the Android subsystem performance on the Fydetab Duo using FydeOS you can check this [video - pending]()**
+
+* How to install Android AOSP on the Fydetab DUO (pending)
 
 
 ## 🐧 Linux on FydeOS (Crostini) <a name=linux-subsystem></a>
 
-* [How to install Wine and Box64 to run x64 programs on FydeOS in the Fydetab Duo](/Documentation/Linux_subsystem/Installing_Wine.md)
+* [🍷 How to install Wine and Box64 to run x64 programs on FydeOS in the Fydetab Duo](/Documentation/Linux_subsystem/Installing_Wine.md)
+* [🐳 Installing Docker on Your Fydetab DUO with FydeOS + Portainer Dashboard](/Documentation/Linux_subsystem/Docker.md)

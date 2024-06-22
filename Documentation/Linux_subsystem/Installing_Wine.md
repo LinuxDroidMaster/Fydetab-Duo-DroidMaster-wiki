@@ -25,8 +25,10 @@ Before we begin, make sure you have the following:
 
 - A Fydetab DUO tablet with FydeOS 📱
 - Internet connection 🌐
-- Access to FydeOS terminal. If you don't know you to do it check this [video - pending]()
+- Access to FydeOS terminal. If you don't know you to do it check this [video](https://youtu.be/TnV74KBCk3g?list=PL4worxVHtqXrko2FcWYwot_rdWKLKrtpK&t=442)
 
+
+<br>
 
 ## 🖥️ 1. Update Debian container <a name=step1></a>
 
@@ -39,6 +41,8 @@ sudo apt update -y
 sudo apt upgrade -y
 ```
 
+
+<br>
 
 ## 🛍️ 2. Install Pi-Apps store <a name=step2></a>
 
@@ -67,6 +71,8 @@ wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bas
 3. **Click on "Install" and wait until the process finishes**
 
 
+<br>
+
 ## ✅ 4. Check that you can use Wine <a name=step4></a> 
 
 1. ⬇️ **Download a x64 app to run (for example [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.7/npp.8.6.7.Installer.x64.exe))**
@@ -84,6 +90,8 @@ cd ~/.wine/drive_c/Program\ Files\
 
 ![](/Images/FydeOS/Wine/notepad_working_small.png)
 
+
+<br>
 
 ## 🖵 5. Adjust Wine resolution and run Winecfg <a name=step5></a> 
 
