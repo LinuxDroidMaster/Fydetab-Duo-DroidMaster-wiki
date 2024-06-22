@@ -11,7 +11,7 @@ My wiki with the tutorials I will create for the Fydetab Duo tablet. You can che
 
 
 
-## 🤖 Android subssytem on FydeOS <a name=android-subsystem></a>
+## 🤖 Android subsytem on FydeOS <a name=android-subsystem></a>
 
 * **If you want to check the Android subsystem performance on the Fydetab Duo using FydeOS you can check this [video - pending]()**
 
