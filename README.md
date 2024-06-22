@@ -21,5 +21,6 @@ My wiki with the tutorials I will create for the Fydetab Duo tablet. You can che
 
 ## 🐧 Linux on FydeOS (Crostini) <a name=linux-subsystem></a>
 
+* [🛍️ [Video] Best Linux Apps Stores on FydeOS for the Fydetab Duo (Pi-Apps + Flatpak) - pending]()
 * [🍷 How to install Wine and Box64 to run x64 programs on FydeOS in the Fydetab Duo](/Documentation/Linux_subsystem/Installing_Wine.md)
 * [🐳 Installing Docker on Your Fydetab DUO with FydeOS + Portainer Dashboard](/Documentation/Linux_subsystem/Docker.md)
