@@ -12,6 +12,7 @@ Hi there! 👋 In this guide, I'll show you how to install Android AOSP on your 
 * [🖥️ 1. Installing AOSP ROM](#step1)
 * [👹 2. Installing Magisk](#step2)
 * [📲 3. Installing GApps](#step3)
+* [❌ 4. Problems I found in AOSP](#step4)
 
 
 <br>
@@ -184,3 +185,24 @@ fastboot.exe reboot
 - You will see the `Google Play Store` app and you can start using it
 
 ![](/Images/Android/AOSP/play_store.png)
+
+
+
+<br>
+
+## ❌ 4. Problems I found in AOSP <a name=step4></a>
+
+- I need to wake the tablet 2 times so it wakes properly. I press 1 time the `Power` button, the screen brighteen in black and I need to press it again to lock it and to 
+
+- The screen is locked and can not rotate. You can rotate it manually using the following `adb` commands: 
+
+```
+adb shell settings put system accelerometer_rotation 0  #disable auto-rotate
+adb shell settings put system user_rotation 3  #270° clockwise
+```
+
+Info from [StackOverflow](https://stackoverflow.com/questions/25864385/changing-android-device-orientation-with-adb): 
+```
+accelerometer_rotation: auto-rotation, 0 disable, 1 enable
+user_rotation: actual rotation, clockwise, 0 0°, 1 90°, 2 180°, 3 270°
+```
