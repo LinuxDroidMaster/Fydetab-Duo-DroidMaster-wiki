@@ -13,9 +13,10 @@ My wiki with the tutorials I will create for the Fydetab Duo tablet. You can che
 
 ## 🤖 Android subsytem on FydeOS <a name=android-subsystem></a>
 
-* **If you want to check the Android subsystem performance on the Fydetab Duo using FydeOS you can check this [video - pending]()**
+* **If you want to check the Android subsystem performance on the Fydetab Duo using FydeOS you can check this [video](https://youtu.be/apTzQY6Fmq4)**
 
-* How to install Android AOSP on the Fydetab DUO (pending)
+* [How to install Android AOSP + Magisk + Google Apps on the Fydetab Duo](/Documentation/Android/Installing_AOSP.md)
+* [How to install Android GSI ROMs on the Fydetab DUO (pending)]()
 
 ---
 
