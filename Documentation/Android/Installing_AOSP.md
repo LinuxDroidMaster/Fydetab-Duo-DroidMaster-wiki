@@ -3,7 +3,7 @@
 > [!NOTE]  
 > All the process is described in more detail in this [video - pending]().
 
-Hi there! 👋 In this guide, I'll show you how to install Android AOSP on your Fydetab DUO tablet. Wine will allow you to run Windows applications on your device. Let's get started! 💪
+Hi there! 👋 In this guide, I'll show you how to install Android AOSP on your Fydetab DUO tablet.
 
 <br>
 
