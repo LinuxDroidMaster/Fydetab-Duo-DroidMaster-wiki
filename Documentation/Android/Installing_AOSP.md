@@ -92,8 +92,8 @@ To help you this is an image of the tool in English, **but for now we are not go
 - You can download everything directly on the tablet but I feel that is way easier download all in the PC and move it to the tablet with the USB connection. Remember to change this option so the tablet appears like a Disk in your computer: 
 
 <p align="center">
-  <img src="/Images/Android/AOSP/AOSP_12_screenshots/usb_options.png" width="200" />
-  <img src="/Images/Android/AOSP/AOSP_12_screenshots/file_transfer_option_usb.png" width="200" />
+  <img src="/Images/Android/AOSP/usb_options.png" width="200" />
+  <img src="/Images/Android/AOSP/file_transfer_option_usb.png" width="200" />
 </p>
 
 - Download the latest version of Magisk available in the [official GitHub](https://github.com/topjohnwu/Magisk/releases)
@@ -161,7 +161,7 @@ fastboot.exe reboot
 - Open `Magisk` app in the tablet and accept the message that appears. After 5 seconds the tablet will reboot and we will have finished the installation of Magisk
 
 <p align="center">
-  <img src="/Images/Android/AOSP/AOSP_12_screenshots/magisk_message.png" width="200" />
+  <img src="/Images/Android/AOSP/magisk_message.png" width="200" />
   <img src="/Images/Android/AOSP/magisk_installed.png" width="200" />
 </p>
 
