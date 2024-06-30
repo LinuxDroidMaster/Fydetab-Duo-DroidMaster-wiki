@@ -6,10 +6,14 @@ My wiki with the tutorials I will create for the Fydetab Duo tablet. You can che
 
 
 # 📚 Index
-* 🤖[Android on FydeOS](#android-subsystem)
-* 🐧[Linux on FydeOS](#linux-subsystem)
+* [🤖 Android on FydeOS](#android-subsystem)
+* [🐧 Linux on FydeOS](#linux-subsystem)
+* [☠️ Unbrick the Fydetab DUO and how to flash official images ☠️](/Documentation/UNBRICK.md)
 
+---
 
+<br>
+<br>
 
 ## 🤖 Android subsytem on FydeOS <a name=android-subsystem></a>
 
@@ -29,3 +33,4 @@ My wiki with the tutorials I will create for the Fydetab Duo tablet. You can che
 ### Advanced
 * [🍷 How to install Wine and Box64 to run x64 programs on FydeOS in the Fydetab Duo](/Documentation/Linux_subsystem/Installing_Wine.md)
 * [🐳 Installing Docker on Your Fydetab DUO with FydeOS + Portainer Dashboard](/Documentation/Linux_subsystem/Docker.md)
+
