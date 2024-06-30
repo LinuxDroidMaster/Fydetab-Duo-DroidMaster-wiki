@@ -39,9 +39,10 @@ Heyyy!!! 👋 In this guide I'm going to show you how to unbrick the Fydetab Duo
 - Press and hold the `Vol +`, while holding it quick press `Power` button (releasing it but not the `Vol +`), then release `Vol +`. 
 
 
-- [Video - Opening Fydetab Duo (Forcing MASKROM mode) - Unbrick Fydetab Duo](https://youtu.be/FPHwv__BagI)
 
 If you can't enter MASKROM mode this way because you have flashed some image incorrectly (happened to me) and every time you press the `Power` button the tablet turns on, then you need to open the tablet and use the inner `MASKROM` button.
+
+- [Video - Opening Fydetab Duo (Forcing MASKROM mode) - Unbrick Fydetab Duo](https://youtu.be/FPHwv__BagI)
 
 ![](/Images/General/brick/device_opened1.jpg)
 ![](/Images/General/brick/device_opened2.jpg)
