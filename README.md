@@ -28,7 +28,7 @@ My wiki with the tutorials I will create for the Fydetab Duo tablet. You can che
 
 ### Basics
 * [👨‍👩‍👧‍👦 How to enable multiple Linux containers in FydeOS](/Documentation/Linux_subsystem/Multiple_containers.md)
-* [🛍️ [Video] Best Linux Apps Stores on FydeOS for the Fydetab Duo (Pi-Apps + Flatpak) - pending]()
+* [🛍️ [Video] Fydetab Duo Linux subsystem - How to install Apps Store, Docker and MORE!](https://youtu.be/DVWhIUo99RM)
 
 ### Advanced
 * [🍷 How to install Wine and Box64 to run x64 programs on FydeOS in the Fydetab Duo](/Documentation/Linux_subsystem/Installing_Wine.md)
