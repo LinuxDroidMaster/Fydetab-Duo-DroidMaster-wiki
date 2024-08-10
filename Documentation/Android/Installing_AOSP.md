@@ -1,7 +1,7 @@
 # 🤖 Installing Android AOSP + Magisk + Google Apps on Your Fydetab DUO 🚀
 
 > [!NOTE]  
-> All the process is described in more detail in this [video - pending]().
+> All the process is described in more detail in this [video](https://youtu.be/6SiFNZiIPQo?feature=shared).
 
 Hi there! 👋 In this guide, I'll show you how to install Android AOSP on your Fydetab DUO tablet.
 

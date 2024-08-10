@@ -1,7 +1,7 @@
 # 🐳 Installing Docker on Your Fydetab DUO with FydeOS + Portainer Dashboard 🚀
 
 > [!NOTE]  
-> All the process is described in more detail in this [video - pending]().
+> All the process is described in more detail in this [video](https://youtu.be/DVWhIUo99RM?feature=shared).
 
 Hi there! 👋 In this guide, I'll show you how to install Docker on your Fydetab DUO tablet running FydeOS. 
 

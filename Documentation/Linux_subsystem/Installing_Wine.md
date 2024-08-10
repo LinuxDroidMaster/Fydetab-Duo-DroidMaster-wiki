@@ -1,7 +1,7 @@
 # 🍷 Installing Wine on Your Fydetab DUO with FydeOS 🚀
 
 > [!NOTE]  
-> All the process is described in more detail in this [video - pending]().
+> All the process is described in more detail in this [video](https://youtu.be/6SiFNZiIPQo?feature=shared).
 
 Hi there! 👋 In this guide, I'll show you how to install Wine on your Fydetab DUO tablet running FydeOS. Wine will allow you to run Windows applications on your device. Let's get started! 💪
 

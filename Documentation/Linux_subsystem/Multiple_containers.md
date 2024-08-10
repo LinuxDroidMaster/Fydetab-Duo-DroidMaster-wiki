@@ -1,7 +1,7 @@
 # 👨‍👩‍👧‍👦 How to enable multiple Linux containers in FydeOS 🚀
 
 > [!NOTE]  
-> All the process is described in more detail in this [video - pending]().
+> All the process is described in more detail in this [video](https://youtu.be/DVWhIUo99RM?feature=shared).
 
 Hi there! 👋 In this guide, I'll show you how to configure multiple Debian containers on your Fydetab DUO tablet running FydeOS. This way we can have separted environtments to test certaing apps or configurations without modifying our main Linux subsystem container 
 
