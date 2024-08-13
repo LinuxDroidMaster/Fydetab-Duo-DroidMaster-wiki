@@ -1,13 +1,12 @@
 # Fydetab Duo wiki by DroidMaster
 
-⚠️ Work in Progress ⚠️
-
 My wiki with the tutorials I will create for the Fydetab Duo tablet. You can check them on my YT channel: https://www.youtube.com/@LinuxDroidMaster/videos: 
 
 
 # 📚 Index
-* [🤖 Android on FydeOS](#android-subsystem)
-* [🐧 Linux on FydeOS](#linux-subsystem)
+* [👑🐧 Linux distros on the Fydetab](#linux-fydetab)
+* [🤖 Android on the Fydetab](#android-fydetab)
+* [🐧 Linux subsystem on FydeOS](#linux-subsystem)
 * [☠️ Unbrick the Fydetab DUO and how to flash official images ☠️](/Documentation/UNBRICK.md)
 
 ---
@@ -15,12 +14,20 @@ My wiki with the tutorials I will create for the Fydetab Duo tablet. You can che
 <br>
 <br>
 
-## 🤖 Android subsytem on FydeOS <a name=android-subsystem></a>
+---
+
+## 👑🐧 Linux distros on the Fydetab <a name=linux-fydetab></a>
+* [🍞 BredOS (Arch Linux ARM)](/Documentation/Linux_distros/bredos.md)
+
+---
+
+## 🤖 Android on the Fydetab <a name=android-fydetab></a>
 
 * **If you want to check the Android subsystem performance on the Fydetab Duo using FydeOS you can check this [video](https://youtu.be/apTzQY6Fmq4)**
 
 * [How to install Android AOSP + Magisk + Google Apps on the Fydetab Duo](/Documentation/Android/Installing_AOSP.md)
 * [How to install Android GSI ROMs on the Fydetab DUO](/Documentation/Android/Installing_GSI.md)
+
 
 ---
 
