@@ -74,8 +74,7 @@ After the tablet boots into BredOS follow the Bred installer and configure a new
 When you have the basic setup configured execute the following commands in the terminal to have everything working fine in the Fydetab: 
 
 ```
-sudo pacman -Syu
-sudo pacman -Sy fydetabduo-post-install
+sudo pacman -Syu fydetabduo-post-install
 reboot
 ```
 
